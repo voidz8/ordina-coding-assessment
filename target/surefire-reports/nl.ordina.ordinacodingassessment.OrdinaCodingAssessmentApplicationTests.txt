@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: nl.ordina.ordinacodingassessment.OrdinaCodingAssessmentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.549 s - in nl.ordina.ordinacodingassessment.OrdinaCodingAssessmentApplicationTests

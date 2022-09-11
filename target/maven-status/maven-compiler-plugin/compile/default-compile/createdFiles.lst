@@ -1,0 +1,7 @@
+nl\ordina\ordinacodingassessment\model\WordFrequency.class
+nl\ordina\ordinacodingassessment\OrdinaCodingAssessmentApplication.class
+nl\ordina\ordinacodingassessment\dto\FrequencyForWordRequestDto.class
+nl\ordina\ordinacodingassessment\service\WordFrequencyService.class
+nl\ordina\ordinacodingassessment\dto\MostFrequentNWordsRequestDto.class
+nl\ordina\ordinacodingassessment\exception\CalculationException.class
+nl\ordina\ordinacodingassessment\controller\WordFrequencyController.class
